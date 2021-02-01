@@ -6,7 +6,8 @@ This repository will implement the popular deep reinforcement learning algorithm
 
 
 ## Current Implementation
-* Deep Deterministic Policy Gradient (DDPG)
+* Deep Deterministic Policy Gradient (DDPG)  
+Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971.
 
 
 ## Results
