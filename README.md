@@ -17,4 +17,7 @@ The implementation is mainly for the inspiration and focuses on the structure of
 ### DDPG
 <img width="300" src="https://github.com/Ricky-Zhu/Reinforcement_Learning/blob/master/images/ddpg.png"/>
 
+### DQN
+<img width="300" src="https://github.com/Ricky-Zhu/Reinforcement_Learning/blob/master/images/comparison_DQN.png"/>
+
 
