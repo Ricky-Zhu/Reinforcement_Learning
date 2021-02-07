@@ -10,8 +10,7 @@ This repository will implement the classic deep reinforcement learning algorithm
 Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971.
 
 * Deep Q Network (DQN)  
-DQN, Double DQN, Dueling DQN were implemented. The norm refers to whether the batch normalization was used.  
-
+DQN, Double DQN, Dueling DQN were implemented. The norm refers to whether the batch normalization was used.
 The implementation is mainly for the inspiration and focuses on the structure of DQN. The prioritised experience replay (PER) was implemented. But it can just serve a not too big replay buffer size curretly. The PER which can be used for large replay buffer size will be implemented with binary heap data structure in the future.
 
 
