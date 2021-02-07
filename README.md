@@ -15,6 +15,6 @@ The implementation is mainly for the inspiration and focuses on the structure of
 
 ## Results
 ### DDPG
-<img width="300" src="https://github.com/Ricky-Zhu/Reinforcement_Learning/blob/master/images/Figure_1.png"/>
+<img width="300" src="https://github.com/Ricky-Zhu/Reinforcement_Learning/blob/master/images/ddpg.png"/>
 
 
